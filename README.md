@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ternaryOutputDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ternary-output-dtype@esm/index.mjs';
+import ternaryOutputDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ternary-output-dtype@v0.1.1-esm/index.mjs';
 ```
 
 #### ternaryOutputDataType( xdtype, ydtype, zdtype, policy )
@@ -129,7 +129,7 @@ import unzip from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-unzip@esm/index.m
 import nCartesianProduct from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-n-cartesian-product@esm/index.mjs';
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import ternaryOutputDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ternary-output-dtype@esm/index.mjs';
+import ternaryOutputDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ternary-output-dtype@v0.1.1-esm/index.mjs';
 
 // Get the list of real-valued floating-point data types:
 var dt = dtypes( 'real_floating_point' );
